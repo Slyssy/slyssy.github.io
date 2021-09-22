@@ -67,7 +67,7 @@ This is how I do it._
     ![Git Push](./images/GitPush.png)<br><br>
 12. Now that you have pushed your changes to your GitHub repository, your GitHub
     repository should look something like this...<br><br>
-    ![GitHub Repository](./images/GitHubRepository.png)<br><br>
+    ![GitHub Repository](images/gitHubRepository.png)<br><br>
 13. Now you can go
     to your browser and type in the repository name you created in step 3 to
     access your deployed GitHub page.
